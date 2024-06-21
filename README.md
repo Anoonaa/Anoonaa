@@ -13,56 +13,41 @@
 
 ### Programming Languages
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="icon" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon" width="40" height="40" />
-</p>
+## Tech Stack
+
+### Programming Languages
+
+| Icon | Language |
+| --- | --- |
+| <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="icon" width="30" height="30" /> | C |
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="30" height="30" /> | Python |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="30" height="30" /> | JavaScript |
+| <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="30" height="30" /> | TypeScript |
+| <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> | CSS |
+| <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> | HTML |
 
 ### Databases
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="icon" width="40" height="40" />
-</p>
+| Icon | Database |
+| --- | --- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="icon" width="30" height="30" /> | PostgreSQL |
+| <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="30" height="30" /> | MySQL |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="icon" width="30" height="30" /> | SQLite |
 
 ### Frameworks & Libraries
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="icon" width="40" height="40" />
-</p>
+| Icon | Framework/Library |
+| --- | --- |
+| <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg" alt="icon" width="30" height="30" /> | Django |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="icon" width="30" height="30" /> | Flask |
+| <img width=30 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/> | TDD |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="icon" width="30" height="30" /> | Bootstrap |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="icon" width="30" height="30" /> | jQuery |
 
 ### Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="icon" width="40" height="40" />
-</p>
-        <th colspan="7">Operating Systems</th>
-      </tr>
-    </thead>
-    <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
-    <tr> 
-      <td align="center" width=110>Linux</td>
-      <td align="center" width=110>Ubuntu</td>  
-    </tr>
-  </table>
-</div>
-
+| Icon | Tool |
+| --- | --- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="icon" width="30" height="30" /> | Heroku |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon" width="30" height="30" /> | Git |
+| <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon"
