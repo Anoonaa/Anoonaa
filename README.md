@@ -9,13 +9,8 @@
 
 ## <p align=center> Skills and Tools </p>
 
-## Tech Stack
 
-### Programming Languages
-
-## Tech Stack
-
-### Programming Languages
+### Languages
 
 | Icon | Language |
 | --- | --- |
