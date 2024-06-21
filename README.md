@@ -45,4 +45,4 @@
 | --- | --- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="icon" width="30" height="30" /> | Heroku |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon" width="30" height="30" /> | Git |
-| <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon"
+| <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon"  width="30" height="30" /> | GitHub |
