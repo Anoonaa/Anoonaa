@@ -28,9 +28,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="icon" width="30" height="30" /> | PostgreSQL |
 | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="30" height="30" /> | MySQL |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="icon" width="30" height="30" /> | SQLite |
-
 ### Frameworks & Libraries
-
 | Icon | Framework/Library |
 | --- | --- |
 | <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg" alt="icon" width="30" height="30" /> | Django |
