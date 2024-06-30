@@ -23,7 +23,7 @@
 
 ### Databases
 
-| Icon | Databases |
+| Icon | Database |
 | --- | --- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="icon" width="30" height="30" /> | PostgreSQL |
 | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="30" height="30" /> | MySQL |
