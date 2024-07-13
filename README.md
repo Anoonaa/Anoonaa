@@ -35,7 +35,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="icon" width="30" height="30" /> | Flask |
 | <img width=30 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/> | TDD |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="icon" width="30" height="30" /> | Bootstrap |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="icon" width="30" height="30" /> | jQuery |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="icon" width="30" height="30" /> | JQuery |
 
 ### Tools
 
