@@ -10,8 +10,6 @@
 
 ##  <p align=center> Skills and Tools </p>
 
-
-
 ### Languages
 
 | Icon | Language |
