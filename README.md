@@ -1,6 +1,6 @@
 <p align=center> Hi  I'm  Anoona </p>
 <p align=center> I recently finished my full stack engineering Foundations programme with ALX-Holberton and am  now specializing in backend </p>
-<p align=center>I am a Chess coach , competetive player and  fine artist when I'm not looking for software solutions to real life problems </p>
+<p align=center> I am a Chess coach , competetive player and  fine artist when I'm not looking for software solutions to real life problems </p>
 
 
  ![giphy1-ezgif com-webp-to-gif-converter](https://github.com/Anoonaa/Anoonaa/assets/122968120/56cc4514-b530-4dfa-8ad0-fb65e04eeb5f)
