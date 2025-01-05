@@ -1,6 +1,6 @@
 <p align=center> Hi  I'm  Anoona </p>
-<p align=center> I recently finished my full stack engineering Foundations programme with ALX-Holberton and am  now specializing in backend </p>
-<p align=center> I am a Chess coach , competetive player and  fine artist when I'm not looking for software solutions to real life problems </p>
+<p align=center> I'm a Software Engineer at R.O.N media group and a part time Financial Engineer at Meleven Consulting </p>
+<p align=center> I'm a lover of mathematics and innovation  </p>
 
 ![O3EO-ezgif com-added-text](https://github.com/user-attachments/assets/e96137ed-013f-49be-8201-7e7b5fb1e989)
 
