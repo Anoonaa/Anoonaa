@@ -1,5 +1,5 @@
 <p align=center> Hi  I'm  Anoona </p>
-<p align=center> I'm a Software Engineer at R.O.N media group and a part time Financial Engineer at Meleven Consulting </p>
+<p align=center> I'm a Software Engineer and a part time Financial Engineer </p>
 <p align=center> I'm a lover of mathematics and innovation  </p>
 
 
