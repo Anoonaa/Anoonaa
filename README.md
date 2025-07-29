@@ -1,6 +1,5 @@
 <p align=center> Hi  I'm  Anoona </p>
-<p align=center> I'm a Software Engineer and a part time Financial Engineer </p>
-<p align=center> I'm a lover of mathematics and innovation  </p>
+
 
 
 
