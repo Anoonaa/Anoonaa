@@ -2,7 +2,7 @@
 
 
 
-**`Engineer ― Lecturer ― Mathematician`** <img src="./assets/gifs/keanu-thanks.gif" width="40"/>
+**`Engineer ― Lecturer ― Mathematician`** 
 
 
 <p>
