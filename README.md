@@ -9,7 +9,7 @@
 
 <p>
 	<a href="anoona.io" target="_blank">
-		<img alt="Personal Website" src="https://img.shields.io/badge/Tafara's Site-%23FF5100?&style=for-the-badge" />
+		<img alt="Personal Website" src="https://img.shields.io/badge/Personal Website-%23FF5100?&style=for-the-badge" />
 	</a>
 	<a href="https://github.com/Anoonaa" target="_blank">
 		<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E?&style=for-the-badge&logo=Github&logoColor=white" />
