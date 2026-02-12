@@ -1,10 +1,8 @@
-<h1> Hi I'm Anoona <img src="./assets/gifs/smart.gif" width="30"/> </h1>
+<h1> Hi I'm Anoona </h1>
 
 
 
 **`Engineer ― Lecturer ― Mathematician`** <img src="./assets/gifs/keanu-thanks.gif" width="40"/>
-
- **Lecturer, Engineer and Mathematician** 
 
 
 <p>
