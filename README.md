@@ -21,7 +21,7 @@
 
 ---
 
-<p> Programming Languages<p>
+<p>Programming Languages</p>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="./assets/icons/Python.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="./assets/icons/TypeScript.svg" />
@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<p>Databases<p>
+### <p>Databases<p>
 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="./assets/icons/MySQL.svg"/>
 <img align="left" alt="PostgresSQL" width="30px" style="padding-right:10px;" src="./assets/icons/PostgresSQL.svg"/>
@@ -44,7 +44,7 @@
 <br />
 <br />
 
-### Programming & Design Tools
+### Frameworks and  Tools
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="./assets/icons/Linux.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./assets/icons/Git.svg" />
@@ -57,7 +57,6 @@
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="./assets/icons/Flask.svg" />
 <img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="./assets/icons/Express.svg" />
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="./assets/icons/Next.js.svg" />
-<img align="left" alt="SQLAlchemy" width="30px" style="padding-right:10px;" src="./assets/icons/SQLAlchemy.svg" />
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="./assets/icons/Tailwind CSS.svg" />
 <br />
 <br />
