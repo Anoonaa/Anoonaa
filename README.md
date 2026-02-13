@@ -21,7 +21,7 @@
 
 ---
 
-<p>Programming Languages</p>
+### <p>Programming Languages</p>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="./assets/icons/Python.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="./assets/icons/TypeScript.svg" />
