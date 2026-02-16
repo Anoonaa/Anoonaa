@@ -17,7 +17,7 @@
 	</a>
 </p>
 
-> <img src="./assets/gifs/typingcat.gif" width="30"/> _No code, just possible solutions and their trade-offs_
+> 
 
 ---
 
