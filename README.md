@@ -2,7 +2,7 @@
 
 
 
-**<p>`Engineer ― Lecturer ― Mathematician`<p>**
+**<p>`Engineer ― Lecturer ― Scientist/Mathematician`<p>**
 
 
 
