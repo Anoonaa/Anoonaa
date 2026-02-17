@@ -50,6 +50,7 @@
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="./assets/icons/Tailwind CSS.svg" />
 <br />
 <br />
+[![anoona's GitHub stats](https://github-readme-stats.vercel.app/api?username=anoonaa)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 > 
