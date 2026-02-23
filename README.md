@@ -63,7 +63,7 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
   <img src="./assets/icons/HashiCorp%20Terraform.svg" alt="Terraform" height="40" />
 </p>
 
-<img width="100%" src="./assets/line.svg" />
+
 
 ### GitHub Analytics
 
@@ -80,7 +80,7 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
 
 </div>
 
-<img width="100%" src="./assets/line.svg" />
+
 
 ### Contribution Activity
 
@@ -92,7 +92,7 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
 
 </div>
 
-<img width="100%" src="./assets/line.svg" />
+
 
 <div align="center">
 
