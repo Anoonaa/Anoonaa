@@ -59,7 +59,7 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
   <img src="./assets/icons/Docker.svg" alt="Docker" height="40" />&nbsp;&nbsp;
   <img src="./assets/icons/AWS.svg" alt="AWS" height="40" />&nbsp;&nbsp;
   <img src="./assets/icons/GitHub%20Actions.svg" alt="GitHub Actions" height="40" />&nbsp;&nbsp;
-  <img src="./assets/icons/NGINX.svg" alt="Nginx" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/NGINX.svg" alt="NGINX" height="40" />&nbsp;&nbsp;
   <img src="./assets/icons/HashiCorp%20Terraform.svg" alt="Terraform" height="40" />
 </p>
 
