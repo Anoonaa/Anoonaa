@@ -84,13 +84,7 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
 
 </div>
 
----
 
-### Achievements
-
-<div align="center">
-
-[![](https://github-profile-trophy.vercel.app/?username=Anoonaa&theme=flat&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
