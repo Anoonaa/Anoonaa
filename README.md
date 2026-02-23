@@ -12,7 +12,7 @@
 
 Software Engineer, Lecturer, and Computer Scientist. I design and build scalable systems across the full stack and apply computational methods to solve complex problems. My work spans web platforms, cloud infrastructure,  and automation in the Fintech, Edtech, and Human Capital sectors.
 
-<img width="10%" src="./assets/line.svg" />
+<img height="10%" src="./assets/line.svg" />
 
 ### Languages
 
