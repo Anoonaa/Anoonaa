@@ -63,8 +63,8 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoonaa&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoonaa&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoonaa&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoonaa&layout=compact&langs_count=8&hide_border=true" alt="" />
 
 </div>
 
