@@ -8,56 +8,62 @@
 
 </div>
 
----
-
 ### About
 
 Software Engineer, Lecturer, and Computer Scientist. I design and build scalable systems across the full stack and apply computational methods to solve complex problems. My work spans web platforms, cloud infrastructure,  and automation in the Fintech, Edtech, and Human Capital sectors.
 
----
+<img width="100%" src="./assets/line.svg" />
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="./assets/icons/Python.svg" alt="Python" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/TypeScript.svg" alt="TypeScript" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/JavaScript.svg" alt="JavaScript" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Go.svg" alt="Go" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/C.svg" alt="C" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Bash.svg" alt="Bash" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/HTML5.svg" alt="HTML5" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/CSS3.svg" alt="CSS3" height="40" />
+</p>
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <img src="./assets/icons/PostgresSQL.svg" alt="PostgreSQL" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/MySQL.svg" alt="MySQL" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/SQLite.svg" alt="SQLite" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/MongoDB.svg" alt="MongoDB" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Firebase.svg" alt="Firebase" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Redis.svg" alt="Redis" height="40" />
+</p>
 
 ### Frameworks and Libraries
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="./assets/icons/React.svg" alt="React" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Next.js.svg" alt="Next.js" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Node.js.svg" alt="Node.js" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Express.svg" alt="Express" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Django.svg" alt="Django" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Flask.svg" alt="Flask" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Tailwind%20CSS.svg" alt="Tailwind CSS" height="40" />
+</p>
 
 ### DevOps and Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<p>
+  <img src="./assets/icons/Linux.svg" alt="Linux" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Git.svg" alt="Git" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/GitHub.svg" alt="GitHub" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/Docker.svg" alt="Docker" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/AWS.svg" alt="AWS" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/GitHub%20Actions.svg" alt="GitHub Actions" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/NGINX.svg" alt="NGINX" height="40" />&nbsp;&nbsp;
+  <img src="./assets/icons/HashiCorp%20Terraform.svg" alt="Terraform" height="40" />
+</p>
 
----
+<img width="100%" src="./assets/line.svg" />
 
 ### GitHub Analytics
 
@@ -74,7 +80,7 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
 
 </div>
 
----
+<img width="100%" src="./assets/line.svg" />
 
 ### Contribution Activity
 
@@ -84,11 +90,9 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
 
 </div>
 
-
-
 </div>
 
----
+<img width="100%" src="./assets/line.svg" />
 
 <div align="center">
 
