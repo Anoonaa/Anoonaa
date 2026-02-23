@@ -10,9 +10,9 @@
 
 ### About
 
-Software Engineer, Lecturer, and Computer Scientist. I design and build scalable systems across the full stack and apply computational methods to solve complex problems. My work spans web platforms, cloud infrastructure,  and automation in the Fintech, Edtech, and Human Capital sectors.
+Software Engineer, Lecturer, and Computer Scientist. I design and build scalable systems across the full stack and apply computational methods to solve complex problems. My work spans web platforms, cloud infrastructure, and automation in the Fintech, Edtech, and Human Capital sectors.
 
----
+<div style="height: 1px; background-color: gray; border: none; opacity: 0.2; margin: 30px 0;"></div>
 
 ### Languages
 
@@ -63,7 +63,7 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
   <img src="./assets/icons/HashiCorp%20Terraform.svg" alt="Terraform" height="40" />
 </p>
 
-
+<div style="height: 1px; background-color: gray; border: none; opacity: 0.2; margin: 30px 0;"></div>
 
 ### GitHub Analytics
 
@@ -80,7 +80,7 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
 
 </div>
 
-
+<div style="height: 1px; background-color: gray; border: none; opacity: 0.2; margin: 30px 0;"></div>
 
 ### Contribution Activity
 
@@ -90,9 +90,7 @@ Software Engineer, Lecturer, and Computer Scientist. I design and build scalable
 
 </div>
 
-</div>
-
-
+<div style="height: 1px; background-color: gray; border: none; opacity: 0.2; margin: 30px 0;"></div>
 
 <div align="center">
 
