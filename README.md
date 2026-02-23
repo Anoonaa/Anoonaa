@@ -2,7 +2,7 @@
 
 # Anoona
 
-**`Engineer | Lecturer | Scientist / Mathematician`**
+**`Engineer | Lecturer | Scientist`**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Anoonaa&style=flat-square&color=0e75b6&label=Profile+Views)](https://github.com/Anoonaa)
 
@@ -12,7 +12,7 @@
 
 ### About
 
-Software engineer, lecturer, and applied scientist with a background in mathematics. I design and build scalable systems across the full stack, contribute to open-source projects, and apply computational methods to solve complex problems. My work spans web platforms, cloud infrastructure, data systems, and automation.
+Software Engineer, Lecturer, and Computer Scientist. I design and build scalable systems across the full stack and apply computational methods to solve complex problems. My work spans web platforms, cloud infrastructure,  and automation in the Fintech, Edtech, and Human Capital sectors.
 
 ---
 
